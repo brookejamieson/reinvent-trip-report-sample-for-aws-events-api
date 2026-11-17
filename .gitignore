@@ -1,0 +1,5 @@
+.DS_Store
+
+# The skill writes these into the folder you run it from. They hold your own notes.
+trip-report.md
+trip-notes.md
